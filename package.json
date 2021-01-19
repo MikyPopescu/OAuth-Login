@@ -1,0 +1,24 @@
+{
+  "name": "oauth-login",
+  "version": "1.0.0",
+  "description": "test passportjs auth with express and mongodb",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MikyPopescu/OAuth-Login.git"
+  },
+  "author": "Miky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MikyPopescu/OAuth-Login/issues"
+  },
+  "homepage": "https://github.com/MikyPopescu/OAuth-Login#readme",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.7"
+  }
+}
